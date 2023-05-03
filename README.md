@@ -5,5 +5,5 @@
    I'm an Android Developer.
 -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=MonsterTTL&show_icons=true&theme=dark&count_private=true)
+![MyGithub](https://github-readme-stats.vercel.app/api?username=MonsterTTL&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonsterTTL)](https://github.com/anuraghazra/github-readme-stats)
