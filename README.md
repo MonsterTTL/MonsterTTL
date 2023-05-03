@@ -7,4 +7,4 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=MonsterTTL&show_icons=true&theme=tokyonight&count_private=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderfix-lab&theme=dark&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonsterTTL&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
